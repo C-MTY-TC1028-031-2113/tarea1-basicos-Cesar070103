@@ -1,11 +1,3 @@
-#!/usr/bin/python
-# -*- coding: latin-1 -*-
-import os, sys
-
-#!/usr/bin/python
-# -*- coding: iso-8859-15 -*-
-import os, sys
-
 def main():
     x1 = float(input("Dame x1: "))
     y1 = float(input("Dame y1: "))

@@ -1,11 +1,3 @@
-#!/usr/bin/python
-# -*- coding: latin-1 -*-
-import os, sys
-
-#!/usr/bin/python
-# -*- coding: iso-8859-15 -*-
-import os, sys
-
 def main():
     pesoinicial = float(input("Dame el peso inicial: "))
     pesofinal = float(input("Dame el peso final: "))

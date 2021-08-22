@@ -1,11 +1,3 @@
-#!/usr/bin/python
-# -*- coding: latin-1 -*-
-import os, sys
-
-#!/usr/bin/python
-# -*- coding: iso-8859-15 -*-
-import os, sys
-
 def main():
     c1 = float(input("Calificación de la materia: "))
     c2 = float(input("Calificación de la materia: "))
